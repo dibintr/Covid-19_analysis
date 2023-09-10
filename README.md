@@ -15,7 +15,7 @@ This Power BI dashboard provides a visual analysis of COVID-19 data, helping you
 
 ## How to Use
 
-1. **Access the Dashboard:** You can access the live COVID-19 Analysis Power BI Dashboard by clicking here.
+1. **Access the Dashboard:** You can access the live COVID-19 Analysis Power BI Dashboard by clicking here https://github.com/dibintr/Covid-19_analysis/blob/main/covid-19_dashboard.png.
 
 2. **Interact with the Data:** Explore the dashboard by selecting different filters, time ranges, or regions of interest to analyze COVID-19 data in real-time.
 
