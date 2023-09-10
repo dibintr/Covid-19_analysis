@@ -21,7 +21,7 @@ This Power BI dashboard provides a visual analysis of COVID-19 data, helping you
 
 3. **Export Data:** If you need to export specific data points or visualizations, Power BI allows you to do so easily (https://github.com/dibintr/Covid-19_analysis/blob/main/country_wise_latest.csv).
 
-4.  Video link:https://drive.google.com/file/d/1TW3os8zdkKthqMH7cp-jF26sW7_WsACp/view?usp=sharing
+4. Video link:https://drive.google.com/file/d/1TW3os8zdkKthqMH7cp-jF26sW7_WsACp/view?usp=sharing
 
 ## Data Attribution
 
